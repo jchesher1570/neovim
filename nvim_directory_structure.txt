@@ -1,0 +1,17 @@
+~/.config/nvim/ 
+├── init.lua 
+├── lazy-lock.json 
+└── lua
+  ├── core
+  │   ├── keymaps.lua 
+  │   ├── options.lua 
+  │   └── plugins.lua 
+  ├── plugins 
+  │   
+  └── colorizer.lua 
+  │   
+  └── neogit.lua 
+  │   
+  └── live-preview.lua 
+  └── UltiSnips 
+    └── tex.snippets
